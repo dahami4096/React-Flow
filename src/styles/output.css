@@ -1,0 +1,12 @@
+.output{
+    height: 80px;
+    width: 70px;
+    border-radius: 20px;
+    color: aquamarine;
+    background: #c5a2a2;
+    border: solid;
+    overflow: hidden;
+
+}
+
+/* h-80 w-70 rounded-md bg-back overflow-hidden border border-solid border-back */

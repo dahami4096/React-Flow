@@ -14,11 +14,7 @@ This project is a beginner-level application built using React Flow, a powerful 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
 
 ## Project Overview
 This project was developed as an introductory exploration into React Flow. The focus was on understanding the core functionality of the library, such as rendering nodes, managing connections between them, and customizing their appearance and behavior. The project serves as a foundational step towards building more complex node-based applications.

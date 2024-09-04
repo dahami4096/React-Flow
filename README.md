@@ -29,10 +29,4 @@ This project was developed as an introductory exploration into React Flow. The f
 - **Customizable Appearance**: Modify node styles and connections.
 - **Event Handling**: Implement basic event handling for node interactions.
 
-## Installation
 
-To get started with this project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/react-flow-beginner-project.git
